@@ -12,6 +12,7 @@ package pruebagit;
 public class Pruebagit {
 
     /** 
+     * esta clase es un ejemplo
      * @param args the command line arguments
      */
     
