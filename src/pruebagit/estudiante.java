@@ -6,7 +6,7 @@
 package pruebagit;
 
 /**
- *
+ * esta clase es una entidad estudiante
  * @author cristian ruiz
  */
 public class estudiante {
