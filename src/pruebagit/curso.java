@@ -6,7 +6,7 @@
 package pruebagit;
 
 /**
- *
+ * esta es la clase entidad que representa a un curso
  * @author cristian ruiz
  */
 public class curso {
