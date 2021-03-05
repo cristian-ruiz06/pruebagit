@@ -6,7 +6,7 @@
 package pruebagit;
 
 /**
- *
+ *esta es una clase para visualizar resultados
  * @author cristian ruiz
  */
 public class visualizador {
